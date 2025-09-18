@@ -23,13 +23,15 @@ A modern, feature-rich QR code generator built with React and Vite. Generate QR 
 - 📱 **Responsive Design** - Works on all devices
 - 🌐 **Multi-language** - English and Spanish support
 - 💾 **Local Storage** - Persistent analytics data
+- 🎯 **Professional Grid Background** - Clean, paper-like visual design
+- 🖼️ **Modern UI** - Enhanced visual appeal with grid pattern backdrop
 
 ## 🛠️ Installation
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd qr-code-generator
+git clone https://github.com/StrataMind/Advanced-QR-Code-Generator.git
+cd Advanced-QR-Code-Generator
 
 # Install dependencies
 npm install
